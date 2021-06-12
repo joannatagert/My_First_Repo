@@ -1,0 +1,42 @@
+nav {
+    height: 50px;
+    background-color:lightgray;
+  }
+
+.inline-block {
+    padding: 15px;
+    display: inline-block;
+    background-color: darkgray;
+
+  }
+
+.left{
+    float: left;
+    height: 500px;
+    background-color:blue;
+    width: 30%;
+    text-align: center;
+  }
+
+.right {
+    float: right;
+    background-color: teal;
+    height: 504px;
+    width: 70%;
+    text-align: center;
+  }
+  
+  .card1 {
+    display: inline-block;
+    background-color: #C6C6C6;
+    height: 30%;
+    width: 100%;
+  }
+
+  .card2 {
+    display: inline-block;
+    background-color: #000000;
+    height: 70%;
+    width: 100%;
+  }
+  
